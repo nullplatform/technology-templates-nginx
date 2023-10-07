@@ -1,6 +1,14 @@
-# Nginx Template
+<h2 align="center">
+    <a href="https://httpie.io" target="blank_">
+        <img height="100" alt="nullplatform" src="https://nullplatform.com/favicon/android-chrome-192x192.png" />
+    </a>
+    <br>
+    <br>
+    Nginx Template
+    <br>
+</h2>
 
-## What is this template for ?
+## What is this template for?
 
 This template is designed to streamline the creation of an internal traffic management layer, thereby simplifying the routing of traffic.
 
