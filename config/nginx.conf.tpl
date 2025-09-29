@@ -1,8 +1,7 @@
-user  nginx;
 worker_processes  ##CPUS##;
 
 error_log  /dev/stderr info;
-pid        /var/run/nginx.pid;
+pid        /tmp/nginx.pid;
 
 
 events {
